@@ -1,0 +1,5084 @@
+{
+  "version": "common-items-zh-v1",
+  "categories": [
+    {
+      "id": "household",
+      "label": "家居与日用品",
+      "quota": 100,
+      "items": [
+        {
+          "canonical": "枕头",
+          "aliases": []
+        },
+        {
+          "canonical": "枕套",
+          "aliases": []
+        },
+        {
+          "canonical": "床单",
+          "aliases": []
+        },
+        {
+          "canonical": "被子",
+          "aliases": [
+            "棉被"
+          ]
+        },
+        {
+          "canonical": "被套",
+          "aliases": []
+        },
+        {
+          "canonical": "毛毯",
+          "aliases": [
+            "毯子"
+          ]
+        },
+        {
+          "canonical": "凉席",
+          "aliases": []
+        },
+        {
+          "canonical": "床垫",
+          "aliases": []
+        },
+        {
+          "canonical": "床褥",
+          "aliases": [
+            "褥子"
+          ]
+        },
+        {
+          "canonical": "蚊帐",
+          "aliases": []
+        },
+        {
+          "canonical": "床头柜",
+          "aliases": []
+        },
+        {
+          "canonical": "衣柜",
+          "aliases": []
+        },
+        {
+          "canonical": "书柜",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋柜",
+          "aliases": []
+        },
+        {
+          "canonical": "储物柜",
+          "aliases": []
+        },
+        {
+          "canonical": "电视柜",
+          "aliases": []
+        },
+        {
+          "canonical": "茶几",
+          "aliases": []
+        },
+        {
+          "canonical": "餐桌",
+          "aliases": []
+        },
+        {
+          "canonical": "餐椅",
+          "aliases": []
+        },
+        {
+          "canonical": "折叠椅",
+          "aliases": []
+        },
+        {
+          "canonical": "塑料凳",
+          "aliases": []
+        },
+        {
+          "canonical": "沙发",
+          "aliases": []
+        },
+        {
+          "canonical": "单人床",
+          "aliases": []
+        },
+        {
+          "canonical": "双人床",
+          "aliases": []
+        },
+        {
+          "canonical": "折叠床",
+          "aliases": []
+        },
+        {
+          "canonical": "晾衣架",
+          "aliases": [
+            "晒衣架"
+          ]
+        },
+        {
+          "canonical": "衣架",
+          "aliases": [
+            "衣撑"
+          ]
+        },
+        {
+          "canonical": "晾衣杆",
+          "aliases": []
+        },
+        {
+          "canonical": "晒衣夹",
+          "aliases": [
+            "晾衣夹"
+          ]
+        },
+        {
+          "canonical": "窗帘",
+          "aliases": []
+        },
+        {
+          "canonical": "百叶窗",
+          "aliases": []
+        },
+        {
+          "canonical": "门帘",
+          "aliases": []
+        },
+        {
+          "canonical": "地毯",
+          "aliases": []
+        },
+        {
+          "canonical": "门口脚垫",
+          "aliases": [
+            "门垫"
+          ]
+        },
+        {
+          "canonical": "抱枕",
+          "aliases": []
+        },
+        {
+          "canonical": "坐垫",
+          "aliases": []
+        },
+        {
+          "canonical": "靠垫",
+          "aliases": []
+        },
+        {
+          "canonical": "桌布",
+          "aliases": [
+            "桌台布"
+          ]
+        },
+        {
+          "canonical": "防尘罩",
+          "aliases": []
+        },
+        {
+          "canonical": "穿衣镜",
+          "aliases": [
+            "全身镜"
+          ]
+        },
+        {
+          "canonical": "台镜",
+          "aliases": [
+            "桌面镜"
+          ]
+        },
+        {
+          "canonical": "挂钟",
+          "aliases": []
+        },
+        {
+          "canonical": "闹钟",
+          "aliases": []
+        },
+        {
+          "canonical": "花瓶",
+          "aliases": []
+        },
+        {
+          "canonical": "门锁",
+          "aliases": []
+        },
+        {
+          "canonical": "门把手",
+          "aliases": []
+        },
+        {
+          "canonical": "房门钥匙",
+          "aliases": []
+        },
+        {
+          "canonical": "门铃",
+          "aliases": []
+        },
+        {
+          "canonical": "门插销",
+          "aliases": [
+            "门闩"
+          ]
+        },
+        {
+          "canonical": "门合页",
+          "aliases": [
+            "铰链"
+          ]
+        },
+        {
+          "canonical": "窗纱",
+          "aliases": [
+            "纱窗"
+          ]
+        },
+        {
+          "canonical": "窗帘杆",
+          "aliases": []
+        },
+        {
+          "canonical": "卷帘",
+          "aliases": []
+        },
+        {
+          "canonical": "墙纸",
+          "aliases": [
+            "壁纸"
+          ]
+        },
+        {
+          "canonical": "台历",
+          "aliases": [
+            "桌面日历"
+          ]
+        },
+        {
+          "canonical": "挂历",
+          "aliases": [
+            "墙历"
+          ]
+        },
+        {
+          "canonical": "钥匙扣",
+          "aliases": [
+            "钥匙圈"
+          ]
+        },
+        {
+          "canonical": "钥匙盒",
+          "aliases": []
+        },
+        {
+          "canonical": "针线盒",
+          "aliases": []
+        },
+        {
+          "canonical": "缝衣针",
+          "aliases": []
+        },
+        {
+          "canonical": "线轴",
+          "aliases": []
+        },
+        {
+          "canonical": "顶针",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋拔",
+          "aliases": [
+            "鞋拔子"
+          ]
+        },
+        {
+          "canonical": "手摇扇",
+          "aliases": []
+        },
+        {
+          "canonical": "折扇",
+          "aliases": []
+        },
+        {
+          "canonical": "热水袋",
+          "aliases": [
+            "暖水袋"
+          ]
+        },
+        {
+          "canonical": "门挡",
+          "aliases": [
+            "门阻"
+          ]
+        },
+        {
+          "canonical": "桌脚垫",
+          "aliases": []
+        },
+        {
+          "canonical": "家用梯子",
+          "aliases": [
+            "折叠梯"
+          ]
+        },
+        {
+          "canonical": "折叠屏风",
+          "aliases": []
+        },
+        {
+          "canonical": "置物架",
+          "aliases": []
+        },
+        {
+          "canonical": "报刊架",
+          "aliases": []
+        },
+        {
+          "canonical": "壁挂钩",
+          "aliases": []
+        },
+        {
+          "canonical": "无痕挂钩",
+          "aliases": []
+        },
+        {
+          "canonical": "吸盘挂钩",
+          "aliases": []
+        },
+        {
+          "canonical": "衣帽架",
+          "aliases": []
+        },
+        {
+          "canonical": "落地镜",
+          "aliases": []
+        },
+        {
+          "canonical": "床上桌",
+          "aliases": []
+        },
+        {
+          "canonical": "家用小推车",
+          "aliases": [
+            "置物推车"
+          ]
+        },
+        {
+          "canonical": "蒲团",
+          "aliases": []
+        },
+        {
+          "canonical": "躺椅",
+          "aliases": []
+        },
+        {
+          "canonical": "摇椅",
+          "aliases": []
+        },
+        {
+          "canonical": "换鞋凳",
+          "aliases": []
+        },
+        {
+          "canonical": "床尾凳",
+          "aliases": []
+        },
+        {
+          "canonical": "餐边柜",
+          "aliases": []
+        },
+        {
+          "canonical": "梳妆台",
+          "aliases": []
+        },
+        {
+          "canonical": "床板",
+          "aliases": []
+        },
+        {
+          "canonical": "床架",
+          "aliases": []
+        },
+        {
+          "canonical": "沙发套",
+          "aliases": []
+        },
+        {
+          "canonical": "椅套",
+          "aliases": []
+        },
+        {
+          "canonical": "桌角防撞垫",
+          "aliases": []
+        },
+        {
+          "canonical": "门缝挡风条",
+          "aliases": []
+        },
+        {
+          "canonical": "窗户密封条",
+          "aliases": []
+        },
+        {
+          "canonical": "蚊香盘",
+          "aliases": []
+        },
+        {
+          "canonical": "香薰炉",
+          "aliases": []
+        },
+        {
+          "canonical": "烛台",
+          "aliases": []
+        },
+        {
+          "canonical": "苍蝇拍",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋撑",
+          "aliases": []
+        },
+        {
+          "canonical": "窗户限位器",
+          "aliases": []
+        },
+        {
+          "canonical": "门牌",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "kitchen",
+      "label": "厨房与餐具",
+      "quota": 100,
+      "items": [
+        {
+          "canonical": "炒锅",
+          "aliases": []
+        },
+        {
+          "canonical": "平底锅",
+          "aliases": [
+            "煎锅"
+          ]
+        },
+        {
+          "canonical": "汤锅",
+          "aliases": []
+        },
+        {
+          "canonical": "奶锅",
+          "aliases": []
+        },
+        {
+          "canonical": "蒸锅",
+          "aliases": []
+        },
+        {
+          "canonical": "压力锅",
+          "aliases": [
+            "高压锅"
+          ]
+        },
+        {
+          "canonical": "砂锅",
+          "aliases": []
+        },
+        {
+          "canonical": "烤盘",
+          "aliases": []
+        },
+        {
+          "canonical": "烤架",
+          "aliases": []
+        },
+        {
+          "canonical": "竹蒸笼",
+          "aliases": [
+            "蒸笼"
+          ]
+        },
+        {
+          "canonical": "锅盖",
+          "aliases": []
+        },
+        {
+          "canonical": "锅铲",
+          "aliases": [
+            "炒菜铲"
+          ]
+        },
+        {
+          "canonical": "汤勺",
+          "aliases": []
+        },
+        {
+          "canonical": "漏勺",
+          "aliases": []
+        },
+        {
+          "canonical": "饭勺",
+          "aliases": []
+        },
+        {
+          "canonical": "长柄勺",
+          "aliases": []
+        },
+        {
+          "canonical": "筷子",
+          "aliases": []
+        },
+        {
+          "canonical": "餐叉",
+          "aliases": [
+            "叉子"
+          ]
+        },
+        {
+          "canonical": "餐刀",
+          "aliases": []
+        },
+        {
+          "canonical": "茶匙",
+          "aliases": [
+            "小勺"
+          ]
+        },
+        {
+          "canonical": "饭碗",
+          "aliases": [
+            "碗"
+          ]
+        },
+        {
+          "canonical": "汤碗",
+          "aliases": []
+        },
+        {
+          "canonical": "餐盘",
+          "aliases": [
+            "盘子"
+          ]
+        },
+        {
+          "canonical": "餐托盘",
+          "aliases": [
+            "托盘"
+          ]
+        },
+        {
+          "canonical": "保温杯",
+          "aliases": []
+        },
+        {
+          "canonical": "马克杯",
+          "aliases": [
+            "咖啡杯"
+          ]
+        },
+        {
+          "canonical": "玻璃水杯",
+          "aliases": [
+            "玻璃杯"
+          ]
+        },
+        {
+          "canonical": "塑料水杯",
+          "aliases": [
+            "塑料杯"
+          ]
+        },
+        {
+          "canonical": "茶杯",
+          "aliases": []
+        },
+        {
+          "canonical": "饭盒",
+          "aliases": [
+            "便当盒"
+          ]
+        },
+        {
+          "canonical": "保鲜盒",
+          "aliases": []
+        },
+        {
+          "canonical": "调料盒",
+          "aliases": []
+        },
+        {
+          "canonical": "密封罐",
+          "aliases": []
+        },
+        {
+          "canonical": "玻璃储物罐",
+          "aliases": [
+            "玻璃罐"
+          ]
+        },
+        {
+          "canonical": "烧水壶",
+          "aliases": [
+            "水壶"
+          ]
+        },
+        {
+          "canonical": "保温壶",
+          "aliases": [
+            "暖水瓶"
+          ]
+        },
+        {
+          "canonical": "茶壶",
+          "aliases": []
+        },
+        {
+          "canonical": "手冲咖啡壶",
+          "aliases": [
+            "咖啡壶"
+          ]
+        },
+        {
+          "canonical": "凉水壶",
+          "aliases": [
+            "冷水壶"
+          ]
+        },
+        {
+          "canonical": "砧板",
+          "aliases": [
+            "菜板"
+          ]
+        },
+        {
+          "canonical": "菜刀",
+          "aliases": []
+        },
+        {
+          "canonical": "水果刀",
+          "aliases": []
+        },
+        {
+          "canonical": "削皮刀",
+          "aliases": []
+        },
+        {
+          "canonical": "面包刀",
+          "aliases": []
+        },
+        {
+          "canonical": "厨房剪刀",
+          "aliases": []
+        },
+        {
+          "canonical": "开罐器",
+          "aliases": []
+        },
+        {
+          "canonical": "开瓶器",
+          "aliases": []
+        },
+        {
+          "canonical": "削皮器",
+          "aliases": [
+            "刮皮刀"
+          ]
+        },
+        {
+          "canonical": "刨丝器",
+          "aliases": [
+            "擦丝器"
+          ]
+        },
+        {
+          "canonical": "打蛋器",
+          "aliases": []
+        },
+        {
+          "canonical": "擀面杖",
+          "aliases": []
+        },
+        {
+          "canonical": "面粉筛",
+          "aliases": []
+        },
+        {
+          "canonical": "手动榨汁器",
+          "aliases": []
+        },
+        {
+          "canonical": "压蒜器",
+          "aliases": []
+        },
+        {
+          "canonical": "核桃夹",
+          "aliases": []
+        },
+        {
+          "canonical": "筷筒",
+          "aliases": []
+        },
+        {
+          "canonical": "刀架",
+          "aliases": []
+        },
+        {
+          "canonical": "调味瓶",
+          "aliases": []
+        },
+        {
+          "canonical": "油壶",
+          "aliases": []
+        },
+        {
+          "canonical": "盐罐",
+          "aliases": []
+        },
+        {
+          "canonical": "糖罐",
+          "aliases": []
+        },
+        {
+          "canonical": "米桶",
+          "aliases": []
+        },
+        {
+          "canonical": "沥水篮",
+          "aliases": []
+        },
+        {
+          "canonical": "洗菜盆",
+          "aliases": []
+        },
+        {
+          "canonical": "漏斗",
+          "aliases": []
+        },
+        {
+          "canonical": "量杯",
+          "aliases": []
+        },
+        {
+          "canonical": "量勺",
+          "aliases": []
+        },
+        {
+          "canonical": "厨房秤",
+          "aliases": [
+            "食物秤"
+          ]
+        },
+        {
+          "canonical": "厨房定时器",
+          "aliases": []
+        },
+        {
+          "canonical": "隔热手套",
+          "aliases": []
+        },
+        {
+          "canonical": "隔热垫",
+          "aliases": [
+            "锅垫"
+          ]
+        },
+        {
+          "canonical": "厨房围裙",
+          "aliases": [
+            "围裙"
+          ]
+        },
+        {
+          "canonical": "牙签筒",
+          "aliases": []
+        },
+        {
+          "canonical": "餐巾盒",
+          "aliases": []
+        },
+        {
+          "canonical": "厨房纸巾架",
+          "aliases": []
+        },
+        {
+          "canonical": "饭菜罩",
+          "aliases": [
+            "饭罩"
+          ]
+        },
+        {
+          "canonical": "食物夹",
+          "aliases": []
+        },
+        {
+          "canonical": "烧烤夹",
+          "aliases": []
+        },
+        {
+          "canonical": "制冰格",
+          "aliases": [
+            "冰格"
+          ]
+        },
+        {
+          "canonical": "蛋糕模具",
+          "aliases": []
+        },
+        {
+          "canonical": "饼干模具",
+          "aliases": []
+        },
+        {
+          "canonical": "硅胶刮刀",
+          "aliases": []
+        },
+        {
+          "canonical": "裱花袋",
+          "aliases": []
+        },
+        {
+          "canonical": "厨房温度计",
+          "aliases": []
+        },
+        {
+          "canonical": "滤茶器",
+          "aliases": [
+            "茶漏"
+          ]
+        },
+        {
+          "canonical": "咖啡滤杯",
+          "aliases": []
+        },
+        {
+          "canonical": "手摇磨豆机",
+          "aliases": []
+        },
+        {
+          "canonical": "鱼鳞刮",
+          "aliases": []
+        },
+        {
+          "canonical": "手动压面机",
+          "aliases": []
+        },
+        {
+          "canonical": "豆浆过滤袋",
+          "aliases": []
+        },
+        {
+          "canonical": "蒸屉",
+          "aliases": []
+        },
+        {
+          "canonical": "菜篮",
+          "aliases": []
+        },
+        {
+          "canonical": "烘焙油纸",
+          "aliases": [
+            "油纸"
+          ]
+        },
+        {
+          "canonical": "食品保鲜膜",
+          "aliases": [
+            "保鲜膜"
+          ]
+        },
+        {
+          "canonical": "食品铝箔纸",
+          "aliases": [
+            "锡纸"
+          ]
+        },
+        {
+          "canonical": "食品密封袋",
+          "aliases": []
+        },
+        {
+          "canonical": "竹签",
+          "aliases": []
+        },
+        {
+          "canonical": "饮用吸管",
+          "aliases": [
+            "吸管"
+          ]
+        },
+        {
+          "canonical": "盘碗沥水架",
+          "aliases": []
+        },
+        {
+          "canonical": "洗碗盆",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "food_drink",
+      "label": "食品与饮水",
+      "quota": 70,
+      "items": [
+        {
+          "canonical": "瓶装饮用水",
+          "aliases": [
+            "矿泉水",
+            "纯净水",
+            "瓶装水"
+          ]
+        },
+        {
+          "canonical": "大米",
+          "aliases": [
+            "米"
+          ]
+        },
+        {
+          "canonical": "小米",
+          "aliases": []
+        },
+        {
+          "canonical": "面粉",
+          "aliases": []
+        },
+        {
+          "canonical": "挂面",
+          "aliases": [
+            "干面条"
+          ]
+        },
+        {
+          "canonical": "方便面",
+          "aliases": [
+            "泡面",
+            "速食面"
+          ]
+        },
+        {
+          "canonical": "燕麦片",
+          "aliases": []
+        },
+        {
+          "canonical": "切片面包",
+          "aliases": [
+            "吐司"
+          ]
+        },
+        {
+          "canonical": "苏打饼干",
+          "aliases": []
+        },
+        {
+          "canonical": "压缩饼干",
+          "aliases": []
+        },
+        {
+          "canonical": "馒头",
+          "aliases": []
+        },
+        {
+          "canonical": "食用植物油",
+          "aliases": [
+            "食用油"
+          ]
+        },
+        {
+          "canonical": "食盐",
+          "aliases": [
+            "盐"
+          ]
+        },
+        {
+          "canonical": "白砂糖",
+          "aliases": [
+            "白糖"
+          ]
+        },
+        {
+          "canonical": "红糖",
+          "aliases": []
+        },
+        {
+          "canonical": "酱油",
+          "aliases": []
+        },
+        {
+          "canonical": "食醋",
+          "aliases": [
+            "醋"
+          ]
+        },
+        {
+          "canonical": "辣椒酱",
+          "aliases": []
+        },
+        {
+          "canonical": "花生酱",
+          "aliases": []
+        },
+        {
+          "canonical": "蜂蜜",
+          "aliases": []
+        },
+        {
+          "canonical": "奶粉",
+          "aliases": []
+        },
+        {
+          "canonical": "盒装牛奶",
+          "aliases": [
+            "牛奶"
+          ]
+        },
+        {
+          "canonical": "杯装酸奶",
+          "aliases": [
+            "酸奶"
+          ]
+        },
+        {
+          "canonical": "豆奶粉",
+          "aliases": []
+        },
+        {
+          "canonical": "茶叶",
+          "aliases": []
+        },
+        {
+          "canonical": "速溶咖啡",
+          "aliases": []
+        },
+        {
+          "canonical": "可可粉",
+          "aliases": []
+        },
+        {
+          "canonical": "盒装果汁",
+          "aliases": [
+            "果汁"
+          ]
+        },
+        {
+          "canonical": "罐装汽水",
+          "aliases": [
+            "汽水"
+          ]
+        },
+        {
+          "canonical": "运动饮料",
+          "aliases": []
+        },
+        {
+          "canonical": "午餐肉罐头",
+          "aliases": [
+            "午餐肉"
+          ]
+        },
+        {
+          "canonical": "鱼肉罐头",
+          "aliases": [
+            "鱼罐头"
+          ]
+        },
+        {
+          "canonical": "水果罐头",
+          "aliases": []
+        },
+        {
+          "canonical": "豆类罐头",
+          "aliases": []
+        },
+        {
+          "canonical": "罐装八宝粥",
+          "aliases": [
+            "八宝粥"
+          ]
+        },
+        {
+          "canonical": "火腿肠",
+          "aliases": []
+        },
+        {
+          "canonical": "牛肉干",
+          "aliases": []
+        },
+        {
+          "canonical": "猪肉脯",
+          "aliases": []
+        },
+        {
+          "canonical": "肉松",
+          "aliases": []
+        },
+        {
+          "canonical": "袋装榨菜",
+          "aliases": [
+            "榨菜"
+          ]
+        },
+        {
+          "canonical": "脱水蔬菜",
+          "aliases": []
+        },
+        {
+          "canonical": "干紫菜",
+          "aliases": [
+            "紫菜"
+          ]
+        },
+        {
+          "canonical": "干海带",
+          "aliases": [
+            "海带干"
+          ]
+        },
+        {
+          "canonical": "葡萄干",
+          "aliases": []
+        },
+        {
+          "canonical": "红枣",
+          "aliases": []
+        },
+        {
+          "canonical": "花生米",
+          "aliases": [
+            "花生"
+          ]
+        },
+        {
+          "canonical": "瓜子",
+          "aliases": []
+        },
+        {
+          "canonical": "巧克力",
+          "aliases": []
+        },
+        {
+          "canonical": "水果糖",
+          "aliases": [
+            "糖果"
+          ]
+        },
+        {
+          "canonical": "口香糖",
+          "aliases": []
+        },
+        {
+          "canonical": "薯片",
+          "aliases": []
+        },
+        {
+          "canonical": "能量棒",
+          "aliases": []
+        },
+        {
+          "canonical": "果冻",
+          "aliases": []
+        },
+        {
+          "canonical": "速溶汤料",
+          "aliases": [
+            "速食汤"
+          ]
+        },
+        {
+          "canonical": "苹果",
+          "aliases": []
+        },
+        {
+          "canonical": "香蕉",
+          "aliases": []
+        },
+        {
+          "canonical": "橙子",
+          "aliases": [
+            "橙"
+          ]
+        },
+        {
+          "canonical": "梨",
+          "aliases": []
+        },
+        {
+          "canonical": "土豆",
+          "aliases": [
+            "马铃薯"
+          ]
+        },
+        {
+          "canonical": "红薯",
+          "aliases": [
+            "地瓜"
+          ]
+        },
+        {
+          "canonical": "胡萝卜",
+          "aliases": []
+        },
+        {
+          "canonical": "大白菜",
+          "aliases": [
+            "白菜"
+          ]
+        },
+        {
+          "canonical": "洋葱",
+          "aliases": []
+        },
+        {
+          "canonical": "大蒜",
+          "aliases": [
+            "蒜头"
+          ]
+        },
+        {
+          "canonical": "鸡蛋",
+          "aliases": []
+        },
+        {
+          "canonical": "黄豆",
+          "aliases": []
+        },
+        {
+          "canonical": "绿豆",
+          "aliases": []
+        },
+        {
+          "canonical": "玉米粒",
+          "aliases": []
+        },
+        {
+          "canonical": "午餐饼",
+          "aliases": [
+            "夹心饼干"
+          ]
+        },
+        {
+          "canonical": "袋装坚果",
+          "aliases": [
+            "混合坚果"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cleaning_bath",
+      "label": "清洁与卫浴",
+      "quota": 65,
+      "items": [
+        {
+          "canonical": "扫帚",
+          "aliases": [
+            "笤帚"
+          ]
+        },
+        {
+          "canonical": "簸箕",
+          "aliases": []
+        },
+        {
+          "canonical": "拖把",
+          "aliases": [
+            "墩布"
+          ]
+        },
+        {
+          "canonical": "清洁水桶",
+          "aliases": [
+            "水桶"
+          ]
+        },
+        {
+          "canonical": "清洁抹布",
+          "aliases": [
+            "抹布"
+          ]
+        },
+        {
+          "canonical": "海绵擦",
+          "aliases": []
+        },
+        {
+          "canonical": "百洁布",
+          "aliases": []
+        },
+        {
+          "canonical": "钢丝球",
+          "aliases": []
+        },
+        {
+          "canonical": "洗碗刷",
+          "aliases": []
+        },
+        {
+          "canonical": "马桶刷",
+          "aliases": []
+        },
+        {
+          "canonical": "玻璃刮水器",
+          "aliases": [
+            "玻璃刮"
+          ]
+        },
+        {
+          "canonical": "鸡毛掸子",
+          "aliases": [
+            "掸子"
+          ]
+        },
+        {
+          "canonical": "垃圾袋",
+          "aliases": []
+        },
+        {
+          "canonical": "垃圾桶",
+          "aliases": []
+        },
+        {
+          "canonical": "废纸篓",
+          "aliases": [
+            "纸篓"
+          ]
+        },
+        {
+          "canonical": "洗衣篮",
+          "aliases": []
+        },
+        {
+          "canonical": "衣物刷",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋刷",
+          "aliases": []
+        },
+        {
+          "canonical": "粘毛滚筒",
+          "aliases": [
+            "粘毛器"
+          ]
+        },
+        {
+          "canonical": "洗衣粉",
+          "aliases": []
+        },
+        {
+          "canonical": "洗衣液",
+          "aliases": []
+        },
+        {
+          "canonical": "洗衣皂",
+          "aliases": [
+            "肥皂"
+          ]
+        },
+        {
+          "canonical": "洗手液",
+          "aliases": []
+        },
+        {
+          "canonical": "洗洁精",
+          "aliases": []
+        },
+        {
+          "canonical": "多用途清洁剂",
+          "aliases": [
+            "清洁剂"
+          ]
+        },
+        {
+          "canonical": "家用消毒液",
+          "aliases": [
+            "消毒液"
+          ]
+        },
+        {
+          "canonical": "衣物漂白剂",
+          "aliases": [
+            "漂白剂"
+          ]
+        },
+        {
+          "canonical": "玻璃清洁剂",
+          "aliases": []
+        },
+        {
+          "canonical": "洁厕剂",
+          "aliases": []
+        },
+        {
+          "canonical": "除霉剂",
+          "aliases": []
+        },
+        {
+          "canonical": "空气清新剂",
+          "aliases": []
+        },
+        {
+          "canonical": "樟脑丸",
+          "aliases": []
+        },
+        {
+          "canonical": "袋装干燥剂",
+          "aliases": [
+            "干燥剂"
+          ]
+        },
+        {
+          "canonical": "洁厕块",
+          "aliases": []
+        },
+        {
+          "canonical": "牙刷",
+          "aliases": []
+        },
+        {
+          "canonical": "牙膏",
+          "aliases": []
+        },
+        {
+          "canonical": "牙线",
+          "aliases": []
+        },
+        {
+          "canonical": "漱口杯",
+          "aliases": []
+        },
+        {
+          "canonical": "漱口水",
+          "aliases": []
+        },
+        {
+          "canonical": "毛巾",
+          "aliases": []
+        },
+        {
+          "canonical": "浴巾",
+          "aliases": []
+        },
+        {
+          "canonical": "一次性洗脸巾",
+          "aliases": [
+            "洗脸巾"
+          ]
+        },
+        {
+          "canonical": "香皂",
+          "aliases": []
+        },
+        {
+          "canonical": "沐浴露",
+          "aliases": []
+        },
+        {
+          "canonical": "洗发水",
+          "aliases": []
+        },
+        {
+          "canonical": "护发素",
+          "aliases": []
+        },
+        {
+          "canonical": "手动剃须刀",
+          "aliases": [
+            "刮胡刀"
+          ]
+        },
+        {
+          "canonical": "剃须泡沫",
+          "aliases": []
+        },
+        {
+          "canonical": "梳子",
+          "aliases": []
+        },
+        {
+          "canonical": "发刷",
+          "aliases": []
+        },
+        {
+          "canonical": "指甲剪",
+          "aliases": []
+        },
+        {
+          "canonical": "掏耳勺",
+          "aliases": [
+            "耳勺"
+          ]
+        },
+        {
+          "canonical": "浴帽",
+          "aliases": []
+        },
+        {
+          "canonical": "沐浴球",
+          "aliases": [
+            "浴球"
+          ]
+        },
+        {
+          "canonical": "浴帘",
+          "aliases": []
+        },
+        {
+          "canonical": "浴室防滑垫",
+          "aliases": [
+            "防滑垫"
+          ]
+        },
+        {
+          "canonical": "洗脸盆",
+          "aliases": [
+            "脸盆"
+          ]
+        },
+        {
+          "canonical": "肥皂盒",
+          "aliases": [
+            "皂盒"
+          ]
+        },
+        {
+          "canonical": "卫生纸",
+          "aliases": [
+            "厕纸",
+            "卷纸"
+          ]
+        },
+        {
+          "canonical": "抽取式面巾纸",
+          "aliases": [
+            "抽纸",
+            "纸巾"
+          ]
+        },
+        {
+          "canonical": "湿纸巾",
+          "aliases": [
+            "湿巾"
+          ]
+        },
+        {
+          "canonical": "卫生巾",
+          "aliases": []
+        },
+        {
+          "canonical": "皮搋子",
+          "aliases": [
+            "马桶吸"
+          ]
+        },
+        {
+          "canonical": "地漏过滤网",
+          "aliases": [
+            "地漏网"
+          ]
+        },
+        {
+          "canonical": "家务橡胶手套",
+          "aliases": [
+            "洗碗手套"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools_repair",
+      "label": "五金工具与维修",
+      "quota": 85,
+      "items": [
+        {
+          "canonical": "一字螺丝刀",
+          "aliases": [
+            "平口螺丝刀"
+          ]
+        },
+        {
+          "canonical": "十字螺丝刀",
+          "aliases": [
+            "梅花螺丝刀"
+          ]
+        },
+        {
+          "canonical": "活动扳手",
+          "aliases": [
+            "活扳手"
+          ]
+        },
+        {
+          "canonical": "开口扳手",
+          "aliases": [
+            "呆扳手"
+          ]
+        },
+        {
+          "canonical": "梅花扳手",
+          "aliases": []
+        },
+        {
+          "canonical": "套筒扳手",
+          "aliases": []
+        },
+        {
+          "canonical": "内六角扳手",
+          "aliases": [
+            "六角匙"
+          ]
+        },
+        {
+          "canonical": "管钳",
+          "aliases": []
+        },
+        {
+          "canonical": "老虎钳",
+          "aliases": [
+            "钢丝钳"
+          ]
+        },
+        {
+          "canonical": "尖嘴钳",
+          "aliases": []
+        },
+        {
+          "canonical": "斜口钳",
+          "aliases": [
+            "剪线钳"
+          ]
+        },
+        {
+          "canonical": "剥线钳",
+          "aliases": []
+        },
+        {
+          "canonical": "压线钳",
+          "aliases": []
+        },
+        {
+          "canonical": "羊角锤",
+          "aliases": [
+            "锤子"
+          ]
+        },
+        {
+          "canonical": "橡胶锤",
+          "aliases": []
+        },
+        {
+          "canonical": "卷尺",
+          "aliases": [
+            "钢卷尺"
+          ]
+        },
+        {
+          "canonical": "钢直尺",
+          "aliases": []
+        },
+        {
+          "canonical": "水平尺",
+          "aliases": []
+        },
+        {
+          "canonical": "游标卡尺",
+          "aliases": []
+        },
+        {
+          "canonical": "木工角尺",
+          "aliases": [
+            "角尺"
+          ]
+        },
+        {
+          "canonical": "美工刀",
+          "aliases": [
+            "壁纸刀"
+          ]
+        },
+        {
+          "canonical": "手板锯",
+          "aliases": [
+            "手锯"
+          ]
+        },
+        {
+          "canonical": "钢锯",
+          "aliases": []
+        },
+        {
+          "canonical": "木工锉刀",
+          "aliases": [
+            "锉刀"
+          ]
+        },
+        {
+          "canonical": "木工凿",
+          "aliases": [
+            "凿子"
+          ]
+        },
+        {
+          "canonical": "手摇钻",
+          "aliases": []
+        },
+        {
+          "canonical": "手电钻",
+          "aliases": [
+            "电钻"
+          ]
+        },
+        {
+          "canonical": "冲击钻",
+          "aliases": []
+        },
+        {
+          "canonical": "角磨机",
+          "aliases": []
+        },
+        {
+          "canonical": "电动螺丝刀",
+          "aliases": [
+            "电批"
+          ]
+        },
+        {
+          "canonical": "热熔胶枪",
+          "aliases": [
+            "热胶枪"
+          ]
+        },
+        {
+          "canonical": "电烙铁",
+          "aliases": []
+        },
+        {
+          "canonical": "数字万用表",
+          "aliases": [
+            "万用表"
+          ]
+        },
+        {
+          "canonical": "测电笔",
+          "aliases": [
+            "电笔"
+          ]
+        },
+        {
+          "canonical": "钢丝刷",
+          "aliases": []
+        },
+        {
+          "canonical": "砂纸",
+          "aliases": []
+        },
+        {
+          "canonical": "台虎钳",
+          "aliases": [
+            "虎钳"
+          ]
+        },
+        {
+          "canonical": "C形夹",
+          "aliases": [
+            "G形夹"
+          ]
+        },
+        {
+          "canonical": "弹簧夹",
+          "aliases": []
+        },
+        {
+          "canonical": "管子割刀",
+          "aliases": [
+            "割管器"
+          ]
+        },
+        {
+          "canonical": "螺丝钉",
+          "aliases": [
+            "螺丝"
+          ]
+        },
+        {
+          "canonical": "六角螺母",
+          "aliases": [
+            "螺母"
+          ]
+        },
+        {
+          "canonical": "金属垫圈",
+          "aliases": [
+            "垫圈"
+          ]
+        },
+        {
+          "canonical": "铁钉",
+          "aliases": [
+            "钉子"
+          ]
+        },
+        {
+          "canonical": "膨胀螺栓",
+          "aliases": []
+        },
+        {
+          "canonical": "尼龙扎带",
+          "aliases": [
+            "扎带"
+          ]
+        },
+        {
+          "canonical": "铁丝",
+          "aliases": []
+        },
+        {
+          "canonical": "铜导线",
+          "aliases": [
+            "铜线"
+          ]
+        },
+        {
+          "canonical": "电工胶带",
+          "aliases": [
+            "绝缘胶带"
+          ]
+        },
+        {
+          "canonical": "布基胶带",
+          "aliases": [
+            "强力胶带"
+          ]
+        },
+        {
+          "canonical": "美纹纸胶带",
+          "aliases": [
+            "美纹胶带"
+          ]
+        },
+        {
+          "canonical": "双面胶带",
+          "aliases": [
+            "双面胶"
+          ]
+        },
+        {
+          "canonical": "瞬干胶",
+          "aliases": [
+            "强力胶"
+          ]
+        },
+        {
+          "canonical": "木工胶",
+          "aliases": []
+        },
+        {
+          "canonical": "环氧树脂胶",
+          "aliases": [
+            "环氧胶"
+          ]
+        },
+        {
+          "canonical": "玻璃密封胶",
+          "aliases": [
+            "玻璃胶"
+          ]
+        },
+        {
+          "canonical": "硅酮密封胶",
+          "aliases": [
+            "硅胶密封剂"
+          ]
+        },
+        {
+          "canonical": "机械润滑油",
+          "aliases": [
+            "润滑油"
+          ]
+        },
+        {
+          "canonical": "除锈剂",
+          "aliases": []
+        },
+        {
+          "canonical": "油漆刷",
+          "aliases": [
+            "漆刷"
+          ]
+        },
+        {
+          "canonical": "油漆滚筒",
+          "aliases": [
+            "滚筒刷"
+          ]
+        },
+        {
+          "canonical": "油漆托盘",
+          "aliases": []
+        },
+        {
+          "canonical": "油灰刀",
+          "aliases": [
+            "腻子刀"
+          ]
+        },
+        {
+          "canonical": "泥瓦抹子",
+          "aliases": [
+            "抹泥刀"
+          ]
+        },
+        {
+          "canonical": "PVC管",
+          "aliases": []
+        },
+        {
+          "canonical": "水管接头",
+          "aliases": []
+        },
+        {
+          "canonical": "水龙头",
+          "aliases": []
+        },
+        {
+          "canonical": "管道阀门",
+          "aliases": [
+            "阀门"
+          ]
+        },
+        {
+          "canonical": "聚四氟乙烯生料带",
+          "aliases": [
+            "生料带"
+          ]
+        },
+        {
+          "canonical": "电源插头",
+          "aliases": [
+            "插头"
+          ]
+        },
+        {
+          "canonical": "墙壁开关",
+          "aliases": []
+        },
+        {
+          "canonical": "灯座",
+          "aliases": []
+        },
+        {
+          "canonical": "保险丝",
+          "aliases": []
+        },
+        {
+          "canonical": "小型断路器",
+          "aliases": [
+            "空气开关"
+          ]
+        },
+        {
+          "canonical": "接线端子",
+          "aliases": []
+        },
+        {
+          "canonical": "焊锡丝",
+          "aliases": []
+        },
+        {
+          "canonical": "热缩管",
+          "aliases": []
+        },
+        {
+          "canonical": "木螺钉",
+          "aliases": []
+        },
+        {
+          "canonical": "自攻螺钉",
+          "aliases": []
+        },
+        {
+          "canonical": "铆钉",
+          "aliases": []
+        },
+        {
+          "canonical": "铆钉枪",
+          "aliases": []
+        },
+        {
+          "canonical": "钢丝绳",
+          "aliases": []
+        },
+        {
+          "canonical": "手动抽水泵",
+          "aliases": []
+        },
+        {
+          "canonical": "工具腰带",
+          "aliases": []
+        },
+        {
+          "canonical": "套筒工具组",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "medical_care",
+      "label": "医疗急救与护理",
+      "quota": 65,
+      "items": [
+        {
+          "canonical": "创可贴",
+          "aliases": [
+            "止血贴"
+          ]
+        },
+        {
+          "canonical": "医用绷带",
+          "aliases": [
+            "绷带"
+          ]
+        },
+        {
+          "canonical": "无菌纱布块",
+          "aliases": [
+            "纱布块"
+          ]
+        },
+        {
+          "canonical": "医用胶带",
+          "aliases": [
+            "医用胶布"
+          ]
+        },
+        {
+          "canonical": "消毒棉片",
+          "aliases": []
+        },
+        {
+          "canonical": "碘伏棉签",
+          "aliases": []
+        },
+        {
+          "canonical": "碘伏消毒液",
+          "aliases": [
+            "碘伏"
+          ]
+        },
+        {
+          "canonical": "医用酒精消毒液",
+          "aliases": [
+            "医用酒精"
+          ]
+        },
+        {
+          "canonical": "过氧化氢消毒液",
+          "aliases": [
+            "双氧水"
+          ]
+        },
+        {
+          "canonical": "瓶装生理盐水",
+          "aliases": [
+            "生理盐水"
+          ]
+        },
+        {
+          "canonical": "医用棉球",
+          "aliases": [
+            "棉球"
+          ]
+        },
+        {
+          "canonical": "弹性绷带",
+          "aliases": []
+        },
+        {
+          "canonical": "三角巾",
+          "aliases": []
+        },
+        {
+          "canonical": "急救止血带",
+          "aliases": [
+            "止血带"
+          ]
+        },
+        {
+          "canonical": "急救毯",
+          "aliases": [
+            "保温急救毯"
+          ]
+        },
+        {
+          "canonical": "医用冰袋",
+          "aliases": [
+            "冰袋"
+          ]
+        },
+        {
+          "canonical": "热敷袋",
+          "aliases": []
+        },
+        {
+          "canonical": "电子体温计",
+          "aliases": [
+            "体温计"
+          ]
+        },
+        {
+          "canonical": "电子血压计",
+          "aliases": [
+            "血压计"
+          ]
+        },
+        {
+          "canonical": "家用血糖仪",
+          "aliases": [
+            "血糖仪"
+          ]
+        },
+        {
+          "canonical": "指夹式血氧仪",
+          "aliases": [
+            "血氧仪"
+          ]
+        },
+        {
+          "canonical": "听诊器",
+          "aliases": []
+        },
+        {
+          "canonical": "医用外科口罩",
+          "aliases": [
+            "医用口罩",
+            "口罩"
+          ]
+        },
+        {
+          "canonical": "一次性医用手套",
+          "aliases": [
+            "医用手套"
+          ]
+        },
+        {
+          "canonical": "医用护目镜",
+          "aliases": []
+        },
+        {
+          "canonical": "透明防护面罩",
+          "aliases": [
+            "防护面罩"
+          ]
+        },
+        {
+          "canonical": "便携急救箱",
+          "aliases": [
+            "急救箱"
+          ]
+        },
+        {
+          "canonical": "分格药盒",
+          "aliases": [
+            "药盒"
+          ]
+        },
+        {
+          "canonical": "药片切割器",
+          "aliases": [
+            "切药器"
+          ]
+        },
+        {
+          "canonical": "退热贴",
+          "aliases": []
+        },
+        {
+          "canonical": "晕车贴",
+          "aliases": []
+        },
+        {
+          "canonical": "口服补液盐包",
+          "aliases": [
+            "补液盐"
+          ]
+        },
+        {
+          "canonical": "洗眼杯",
+          "aliases": []
+        },
+        {
+          "canonical": "滴眼液瓶",
+          "aliases": [
+            "眼药水瓶"
+          ]
+        },
+        {
+          "canonical": "人工泪液瓶",
+          "aliases": [
+            "人工泪液"
+          ]
+        },
+        {
+          "canonical": "鼻腔冲洗器",
+          "aliases": [
+            "洗鼻器"
+          ]
+        },
+        {
+          "canonical": "压舌板",
+          "aliases": []
+        },
+        {
+          "canonical": "医用镊子",
+          "aliases": []
+        },
+        {
+          "canonical": "医用剪刀",
+          "aliases": []
+        },
+        {
+          "canonical": "创伤敷料",
+          "aliases": []
+        },
+        {
+          "canonical": "伤口敷贴",
+          "aliases": []
+        },
+        {
+          "canonical": "弹力网帽",
+          "aliases": []
+        },
+        {
+          "canonical": "护腕",
+          "aliases": []
+        },
+        {
+          "canonical": "护膝",
+          "aliases": []
+        },
+        {
+          "canonical": "护腰",
+          "aliases": []
+        },
+        {
+          "canonical": "颈托",
+          "aliases": []
+        },
+        {
+          "canonical": "手臂吊带",
+          "aliases": [
+            "前臂吊带"
+          ]
+        },
+        {
+          "canonical": "腋下拐杖",
+          "aliases": [
+            "腋拐"
+          ]
+        },
+        {
+          "canonical": "轮椅",
+          "aliases": []
+        },
+        {
+          "canonical": "助行器",
+          "aliases": []
+        },
+        {
+          "canonical": "手杖",
+          "aliases": [
+            "拐杖"
+          ]
+        },
+        {
+          "canonical": "助听器",
+          "aliases": []
+        },
+        {
+          "canonical": "老花镜",
+          "aliases": []
+        },
+        {
+          "canonical": "眼镜清洗液",
+          "aliases": []
+        },
+        {
+          "canonical": "隐形眼镜护理液",
+          "aliases": []
+        },
+        {
+          "canonical": "医用眼罩",
+          "aliases": []
+        },
+        {
+          "canonical": "耳塞",
+          "aliases": []
+        },
+        {
+          "canonical": "一次性鞋套",
+          "aliases": []
+        },
+        {
+          "canonical": "一次性护理垫",
+          "aliases": [
+            "护理垫"
+          ]
+        },
+        {
+          "canonical": "成人纸尿裤",
+          "aliases": []
+        },
+        {
+          "canonical": "医用棉签",
+          "aliases": []
+        },
+        {
+          "canonical": "额温枪",
+          "aliases": [
+            "红外体温计"
+          ]
+        },
+        {
+          "canonical": "冷敷贴",
+          "aliases": []
+        },
+        {
+          "canonical": "急救呼吸面罩",
+          "aliases": []
+        },
+        {
+          "canonical": "医用夹板",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "office_stationery",
+      "label": "办公与文具",
+      "quota": 65,
+      "items": [
+        {
+          "canonical": "圆珠笔",
+          "aliases": []
+        },
+        {
+          "canonical": "铅笔",
+          "aliases": []
+        },
+        {
+          "canonical": "自动铅笔",
+          "aliases": [
+            "活动铅笔"
+          ]
+        },
+        {
+          "canonical": "钢笔",
+          "aliases": []
+        },
+        {
+          "canonical": "记号笔",
+          "aliases": [
+            "马克笔"
+          ]
+        },
+        {
+          "canonical": "荧光笔",
+          "aliases": []
+        },
+        {
+          "canonical": "白板笔",
+          "aliases": []
+        },
+        {
+          "canonical": "粉笔",
+          "aliases": []
+        },
+        {
+          "canonical": "橡皮擦",
+          "aliases": [
+            "橡皮"
+          ]
+        },
+        {
+          "canonical": "修正带",
+          "aliases": [
+            "涂改带"
+          ]
+        },
+        {
+          "canonical": "卷笔刀",
+          "aliases": [
+            "削笔器"
+          ]
+        },
+        {
+          "canonical": "塑料直尺",
+          "aliases": [
+            "尺子"
+          ]
+        },
+        {
+          "canonical": "三角板",
+          "aliases": []
+        },
+        {
+          "canonical": "量角器",
+          "aliases": []
+        },
+        {
+          "canonical": "绘图圆规",
+          "aliases": [
+            "圆规"
+          ]
+        },
+        {
+          "canonical": "办公剪刀",
+          "aliases": [
+            "剪刀"
+          ]
+        },
+        {
+          "canonical": "固体胶棒",
+          "aliases": [
+            "胶棒"
+          ]
+        },
+        {
+          "canonical": "液体胶水",
+          "aliases": [
+            "胶水"
+          ]
+        },
+        {
+          "canonical": "订书机",
+          "aliases": []
+        },
+        {
+          "canonical": "订书钉",
+          "aliases": []
+        },
+        {
+          "canonical": "打孔器",
+          "aliases": []
+        },
+        {
+          "canonical": "长尾夹",
+          "aliases": [
+            "燕尾夹"
+          ]
+        },
+        {
+          "canonical": "回形针",
+          "aliases": [
+            "曲别针"
+          ]
+        },
+        {
+          "canonical": "图钉",
+          "aliases": []
+        },
+        {
+          "canonical": "橡皮筋",
+          "aliases": [
+            "橡皮圈"
+          ]
+        },
+        {
+          "canonical": "纸质笔记本",
+          "aliases": [
+            "记事本",
+            "本子"
+          ]
+        },
+        {
+          "canonical": "便签本",
+          "aliases": []
+        },
+        {
+          "canonical": "拍纸本",
+          "aliases": [
+            "书写垫"
+          ]
+        },
+        {
+          "canonical": "作业本",
+          "aliases": []
+        },
+        {
+          "canonical": "打印纸",
+          "aliases": [
+            "复印纸"
+          ]
+        },
+        {
+          "canonical": "彩色卡纸",
+          "aliases": [
+            "卡纸"
+          ]
+        },
+        {
+          "canonical": "方格纸",
+          "aliases": []
+        },
+        {
+          "canonical": "牛皮纸",
+          "aliases": []
+        },
+        {
+          "canonical": "信封",
+          "aliases": []
+        },
+        {
+          "canonical": "文件夹",
+          "aliases": []
+        },
+        {
+          "canonical": "文件袋",
+          "aliases": []
+        },
+        {
+          "canonical": "活页夹",
+          "aliases": []
+        },
+        {
+          "canonical": "写字板夹",
+          "aliases": [
+            "板夹"
+          ]
+        },
+        {
+          "canonical": "文件收纳盒",
+          "aliases": [
+            "文件盒"
+          ]
+        },
+        {
+          "canonical": "档案盒",
+          "aliases": []
+        },
+        {
+          "canonical": "工牌",
+          "aliases": [
+            "工作证"
+          ]
+        },
+        {
+          "canonical": "证件挂绳",
+          "aliases": []
+        },
+        {
+          "canonical": "印章",
+          "aliases": []
+        },
+        {
+          "canonical": "印泥盒",
+          "aliases": [
+            "印泥"
+          ]
+        },
+        {
+          "canonical": "计算器",
+          "aliases": []
+        },
+        {
+          "canonical": "算盘",
+          "aliases": []
+        },
+        {
+          "canonical": "桌面文具盒",
+          "aliases": []
+        },
+        {
+          "canonical": "笔筒",
+          "aliases": []
+        },
+        {
+          "canonical": "书立",
+          "aliases": [
+            "书挡"
+          ]
+        },
+        {
+          "canonical": "标签贴纸",
+          "aliases": [
+            "标签纸"
+          ]
+        },
+        {
+          "canonical": "便利贴",
+          "aliases": [
+            "便签纸"
+          ]
+        },
+        {
+          "canonical": "胶带切割器",
+          "aliases": [
+            "胶带座"
+          ]
+        },
+        {
+          "canonical": "透明胶带",
+          "aliases": [
+            "透明胶"
+          ]
+        },
+        {
+          "canonical": "白板",
+          "aliases": []
+        },
+        {
+          "canonical": "黑板",
+          "aliases": []
+        },
+        {
+          "canonical": "软木公告板",
+          "aliases": [
+            "软木板"
+          ]
+        },
+        {
+          "canonical": "白板擦",
+          "aliases": []
+        },
+        {
+          "canonical": "放大镜",
+          "aliases": []
+        },
+        {
+          "canonical": "教鞭",
+          "aliases": []
+        },
+        {
+          "canonical": "激光翻页笔",
+          "aliases": [
+            "演示笔"
+          ]
+        },
+        {
+          "canonical": "塑封机",
+          "aliases": []
+        },
+        {
+          "canonical": "碎纸机",
+          "aliases": []
+        },
+        {
+          "canonical": "装订机",
+          "aliases": []
+        },
+        {
+          "canonical": "标签打印机",
+          "aliases": []
+        },
+        {
+          "canonical": "号码印章",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "electronics",
+      "label": "电子与数码",
+      "quota": 75,
+      "items": [
+        {
+          "canonical": "智能手机",
+          "aliases": [
+            "手机"
+          ]
+        },
+        {
+          "canonical": "功能手机",
+          "aliases": [
+            "老年机"
+          ]
+        },
+        {
+          "canonical": "平板电脑",
+          "aliases": [
+            "平板"
+          ]
+        },
+        {
+          "canonical": "笔记本电脑",
+          "aliases": [
+            "手提电脑"
+          ]
+        },
+        {
+          "canonical": "台式电脑主机",
+          "aliases": [
+            "电脑主机"
+          ]
+        },
+        {
+          "canonical": "电脑显示器",
+          "aliases": [
+            "显示器"
+          ]
+        },
+        {
+          "canonical": "电脑键盘",
+          "aliases": [
+            "键盘"
+          ]
+        },
+        {
+          "canonical": "电脑鼠标",
+          "aliases": [
+            "鼠标"
+          ]
+        },
+        {
+          "canonical": "鼠标垫",
+          "aliases": []
+        },
+        {
+          "canonical": "网络摄像头",
+          "aliases": [
+            "电脑摄像头"
+          ]
+        },
+        {
+          "canonical": "电脑麦克风",
+          "aliases": [
+            "麦克风"
+          ]
+        },
+        {
+          "canonical": "头戴式耳机",
+          "aliases": [
+            "大耳机"
+          ]
+        },
+        {
+          "canonical": "入耳式耳机",
+          "aliases": [
+            "耳塞式耳机"
+          ]
+        },
+        {
+          "canonical": "蓝牙音箱",
+          "aliases": [
+            "便携音箱"
+          ]
+        },
+        {
+          "canonical": "便携收音机",
+          "aliases": [
+            "收音机"
+          ]
+        },
+        {
+          "canonical": "MP3播放器",
+          "aliases": [
+            "随身听"
+          ]
+        },
+        {
+          "canonical": "电子书阅读器",
+          "aliases": [
+            "电纸书"
+          ]
+        },
+        {
+          "canonical": "数码相机",
+          "aliases": [
+            "相机"
+          ]
+        },
+        {
+          "canonical": "数码摄像机",
+          "aliases": [
+            "摄像机"
+          ]
+        },
+        {
+          "canonical": "运动相机",
+          "aliases": []
+        },
+        {
+          "canonical": "相机三脚架",
+          "aliases": [
+            "三脚架"
+          ]
+        },
+        {
+          "canonical": "自拍杆",
+          "aliases": []
+        },
+        {
+          "canonical": "游戏手柄",
+          "aliases": [
+            "手柄"
+          ]
+        },
+        {
+          "canonical": "掌上游戏机",
+          "aliases": [
+            "掌机"
+          ]
+        },
+        {
+          "canonical": "智能手表",
+          "aliases": []
+        },
+        {
+          "canonical": "运动手环",
+          "aliases": [
+            "智能手环"
+          ]
+        },
+        {
+          "canonical": "U盘",
+          "aliases": [
+            "优盘",
+            "USB闪存盘"
+          ]
+        },
+        {
+          "canonical": "存储卡",
+          "aliases": [
+            "内存卡"
+          ]
+        },
+        {
+          "canonical": "移动硬盘",
+          "aliases": []
+        },
+        {
+          "canonical": "固态硬盘",
+          "aliases": [
+            "SSD硬盘"
+          ]
+        },
+        {
+          "canonical": "读卡器",
+          "aliases": []
+        },
+        {
+          "canonical": "USB集线器",
+          "aliases": [
+            "USB扩展坞"
+          ]
+        },
+        {
+          "canonical": "无线路由器",
+          "aliases": [
+            "路由器"
+          ]
+        },
+        {
+          "canonical": "宽带调制解调器",
+          "aliases": [
+            "光猫"
+          ]
+        },
+        {
+          "canonical": "网络交换机",
+          "aliases": [
+            "交换机"
+          ]
+        },
+        {
+          "canonical": "网线",
+          "aliases": [
+            "网络线"
+          ]
+        },
+        {
+          "canonical": "HDMI线",
+          "aliases": [
+            "高清线"
+          ]
+        },
+        {
+          "canonical": "USB数据线",
+          "aliases": [
+            "USB线"
+          ]
+        },
+        {
+          "canonical": "手机充电线",
+          "aliases": [
+            "充电线"
+          ]
+        },
+        {
+          "canonical": "移动电源",
+          "aliases": [
+            "充电宝"
+          ]
+        },
+        {
+          "canonical": "手机充电器",
+          "aliases": [
+            "充电头"
+          ]
+        },
+        {
+          "canonical": "电源适配器",
+          "aliases": [
+            "电源转换器"
+          ]
+        },
+        {
+          "canonical": "无线充电器",
+          "aliases": []
+        },
+        {
+          "canonical": "碱性干电池",
+          "aliases": [
+            "干电池"
+          ]
+        },
+        {
+          "canonical": "充电电池",
+          "aliases": []
+        },
+        {
+          "canonical": "纽扣电池",
+          "aliases": []
+        },
+        {
+          "canonical": "电池充电器",
+          "aliases": []
+        },
+        {
+          "canonical": "红外遥控器",
+          "aliases": [
+            "遥控器"
+          ]
+        },
+        {
+          "canonical": "数字录音笔",
+          "aliases": [
+            "录音笔"
+          ]
+        },
+        {
+          "canonical": "手持对讲机",
+          "aliases": [
+            "对讲机"
+          ]
+        },
+        {
+          "canonical": "车载导航仪",
+          "aliases": [
+            "导航仪"
+          ]
+        },
+        {
+          "canonical": "行车记录仪",
+          "aliases": []
+        },
+        {
+          "canonical": "监控摄像头",
+          "aliases": []
+        },
+        {
+          "canonical": "可视门铃",
+          "aliases": []
+        },
+        {
+          "canonical": "智能音箱",
+          "aliases": []
+        },
+        {
+          "canonical": "电视机顶盒",
+          "aliases": [
+            "机顶盒"
+          ]
+        },
+        {
+          "canonical": "投影仪",
+          "aliases": []
+        },
+        {
+          "canonical": "虚拟现实头显",
+          "aliases": [
+            "VR眼镜"
+          ]
+        },
+        {
+          "canonical": "中央处理器",
+          "aliases": [
+            "CPU"
+          ]
+        },
+        {
+          "canonical": "独立显卡",
+          "aliases": [
+            "电脑显卡"
+          ]
+        },
+        {
+          "canonical": "电脑主板",
+          "aliases": [
+            "主板"
+          ]
+        },
+        {
+          "canonical": "内存条",
+          "aliases": []
+        },
+        {
+          "canonical": "机械硬盘",
+          "aliases": []
+        },
+        {
+          "canonical": "电脑电源",
+          "aliases": []
+        },
+        {
+          "canonical": "电脑散热风扇",
+          "aliases": []
+        },
+        {
+          "canonical": "便携光驱",
+          "aliases": [
+            "外置光驱"
+          ]
+        },
+        {
+          "canonical": "电子词典",
+          "aliases": []
+        },
+        {
+          "canonical": "便携扫描仪",
+          "aliases": []
+        },
+        {
+          "canonical": "数字温湿度计",
+          "aliases": []
+        },
+        {
+          "canonical": "蓝牙定位器",
+          "aliases": []
+        },
+        {
+          "canonical": "无线鼠标接收器",
+          "aliases": []
+        },
+        {
+          "canonical": "蓝牙适配器",
+          "aliases": []
+        },
+        {
+          "canonical": "音频转接头",
+          "aliases": []
+        },
+        {
+          "canonical": "麦克风支架",
+          "aliases": []
+        },
+        {
+          "canonical": "数码清洁气吹",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "appliances_lighting",
+      "label": "家电与照明",
+      "quota": 55,
+      "items": [
+        {
+          "canonical": "电视机",
+          "aliases": [
+            "电视"
+          ]
+        },
+        {
+          "canonical": "家用冰箱",
+          "aliases": [
+            "冰箱"
+          ]
+        },
+        {
+          "canonical": "洗衣机",
+          "aliases": []
+        },
+        {
+          "canonical": "衣物烘干机",
+          "aliases": [
+            "烘干机"
+          ]
+        },
+        {
+          "canonical": "家用空调",
+          "aliases": [
+            "空调"
+          ]
+        },
+        {
+          "canonical": "落地电风扇",
+          "aliases": [
+            "电风扇"
+          ]
+        },
+        {
+          "canonical": "电暖器",
+          "aliases": [
+            "取暖器"
+          ]
+        },
+        {
+          "canonical": "除湿机",
+          "aliases": []
+        },
+        {
+          "canonical": "加湿器",
+          "aliases": []
+        },
+        {
+          "canonical": "空气净化器",
+          "aliases": []
+        },
+        {
+          "canonical": "吸尘器",
+          "aliases": []
+        },
+        {
+          "canonical": "扫地机器人",
+          "aliases": []
+        },
+        {
+          "canonical": "电磁炉",
+          "aliases": []
+        },
+        {
+          "canonical": "电饭锅",
+          "aliases": [
+            "电饭煲"
+          ]
+        },
+        {
+          "canonical": "电压力锅",
+          "aliases": []
+        },
+        {
+          "canonical": "电热水壶",
+          "aliases": [
+            "电水壶"
+          ]
+        },
+        {
+          "canonical": "微波炉",
+          "aliases": []
+        },
+        {
+          "canonical": "电烤箱",
+          "aliases": [
+            "烤箱"
+          ]
+        },
+        {
+          "canonical": "烤面包机",
+          "aliases": [
+            "多士炉"
+          ]
+        },
+        {
+          "canonical": "食物搅拌机",
+          "aliases": [
+            "料理机"
+          ]
+        },
+        {
+          "canonical": "电动榨汁机",
+          "aliases": [
+            "榨汁机"
+          ]
+        },
+        {
+          "canonical": "豆浆机",
+          "aliases": []
+        },
+        {
+          "canonical": "咖啡机",
+          "aliases": []
+        },
+        {
+          "canonical": "饮水机",
+          "aliases": []
+        },
+        {
+          "canonical": "抽油烟机",
+          "aliases": [
+            "油烟机"
+          ]
+        },
+        {
+          "canonical": "洗碗机",
+          "aliases": []
+        },
+        {
+          "canonical": "餐具消毒柜",
+          "aliases": [
+            "消毒柜"
+          ]
+        },
+        {
+          "canonical": "家用冰柜",
+          "aliases": [
+            "冰柜"
+          ]
+        },
+        {
+          "canonical": "电热炉",
+          "aliases": []
+        },
+        {
+          "canonical": "电饼铛",
+          "aliases": []
+        },
+        {
+          "canonical": "电动牙刷",
+          "aliases": []
+        },
+        {
+          "canonical": "电吹风",
+          "aliases": [
+            "吹风机"
+          ]
+        },
+        {
+          "canonical": "电动剃须刀",
+          "aliases": [
+            "电须刨"
+          ]
+        },
+        {
+          "canonical": "家用缝纫机",
+          "aliases": [
+            "缝纫机"
+          ]
+        },
+        {
+          "canonical": "电熨斗",
+          "aliases": [
+            "熨斗"
+          ]
+        },
+        {
+          "canonical": "挂烫机",
+          "aliases": []
+        },
+        {
+          "canonical": "电热毯",
+          "aliases": []
+        },
+        {
+          "canonical": "灭蚊灯",
+          "aliases": []
+        },
+        {
+          "canonical": "书桌台灯",
+          "aliases": [
+            "台灯"
+          ]
+        },
+        {
+          "canonical": "落地灯",
+          "aliases": []
+        },
+        {
+          "canonical": "床头灯",
+          "aliases": []
+        },
+        {
+          "canonical": "吸顶灯",
+          "aliases": []
+        },
+        {
+          "canonical": "白炽灯泡",
+          "aliases": [
+            "灯泡"
+          ]
+        },
+        {
+          "canonical": "日光灯管",
+          "aliases": [
+            "灯管"
+          ]
+        },
+        {
+          "canonical": "手电筒",
+          "aliases": [
+            "电筒"
+          ]
+        },
+        {
+          "canonical": "头灯",
+          "aliases": []
+        },
+        {
+          "canonical": "应急照明灯",
+          "aliases": [
+            "应急灯"
+          ]
+        },
+        {
+          "canonical": "小夜灯",
+          "aliases": [
+            "夜灯"
+          ]
+        },
+        {
+          "canonical": "装饰灯串",
+          "aliases": [
+            "灯串"
+          ]
+        },
+        {
+          "canonical": "插线板",
+          "aliases": [
+            "排插",
+            "插排"
+          ]
+        },
+        {
+          "canonical": "电源延长线",
+          "aliases": [
+            "延长线"
+          ]
+        },
+        {
+          "canonical": "便携发电机",
+          "aliases": [
+            "发电机"
+          ]
+        },
+        {
+          "canonical": "太阳能板",
+          "aliases": [
+            "光伏板"
+          ]
+        },
+        {
+          "canonical": "太阳能庭院灯",
+          "aliases": [
+            "太阳能灯"
+          ]
+        },
+        {
+          "canonical": "充电式露营灯",
+          "aliases": [
+            "露营灯"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clothing",
+      "label": "衣物鞋帽",
+      "quota": 75,
+      "items": [
+        {
+          "canonical": "短袖T恤",
+          "aliases": [
+            "T恤"
+          ]
+        },
+        {
+          "canonical": "长袖T恤",
+          "aliases": []
+        },
+        {
+          "canonical": "衬衫",
+          "aliases": []
+        },
+        {
+          "canonical": "针织衫",
+          "aliases": []
+        },
+        {
+          "canonical": "毛衣",
+          "aliases": []
+        },
+        {
+          "canonical": "连帽卫衣",
+          "aliases": [
+            "卫衣"
+          ]
+        },
+        {
+          "canonical": "夹克",
+          "aliases": []
+        },
+        {
+          "canonical": "风衣",
+          "aliases": []
+        },
+        {
+          "canonical": "羽绒服",
+          "aliases": []
+        },
+        {
+          "canonical": "棉服",
+          "aliases": [
+            "棉衣"
+          ]
+        },
+        {
+          "canonical": "雨衣",
+          "aliases": []
+        },
+        {
+          "canonical": "马甲",
+          "aliases": [
+            "背心外套"
+          ]
+        },
+        {
+          "canonical": "西装外套",
+          "aliases": [
+            "西装"
+          ]
+        },
+        {
+          "canonical": "连衣裙",
+          "aliases": []
+        },
+        {
+          "canonical": "半身裙",
+          "aliases": [
+            "裙子"
+          ]
+        },
+        {
+          "canonical": "牛仔裤",
+          "aliases": []
+        },
+        {
+          "canonical": "休闲长裤",
+          "aliases": [
+            "长裤"
+          ]
+        },
+        {
+          "canonical": "运动裤",
+          "aliases": []
+        },
+        {
+          "canonical": "短裤",
+          "aliases": []
+        },
+        {
+          "canonical": "打底裤",
+          "aliases": []
+        },
+        {
+          "canonical": "睡衣",
+          "aliases": []
+        },
+        {
+          "canonical": "保暖内衣",
+          "aliases": []
+        },
+        {
+          "canonical": "男式内裤",
+          "aliases": [
+            "内裤"
+          ]
+        },
+        {
+          "canonical": "女式内裤",
+          "aliases": []
+        },
+        {
+          "canonical": "文胸",
+          "aliases": [
+            "胸罩"
+          ]
+        },
+        {
+          "canonical": "棉袜",
+          "aliases": [
+            "袜子"
+          ]
+        },
+        {
+          "canonical": "连裤袜",
+          "aliases": []
+        },
+        {
+          "canonical": "围巾",
+          "aliases": []
+        },
+        {
+          "canonical": "披肩",
+          "aliases": []
+        },
+        {
+          "canonical": "薄手套",
+          "aliases": []
+        },
+        {
+          "canonical": "毛线手套",
+          "aliases": []
+        },
+        {
+          "canonical": "棒球帽",
+          "aliases": []
+        },
+        {
+          "canonical": "遮阳帽",
+          "aliases": [
+            "太阳帽"
+          ]
+        },
+        {
+          "canonical": "针织帽",
+          "aliases": [
+            "毛线帽"
+          ]
+        },
+        {
+          "canonical": "腰带",
+          "aliases": [
+            "皮带"
+          ]
+        },
+        {
+          "canonical": "背带",
+          "aliases": [
+            "裤子背带"
+          ]
+        },
+        {
+          "canonical": "领带",
+          "aliases": []
+        },
+        {
+          "canonical": "领结",
+          "aliases": []
+        },
+        {
+          "canonical": "手帕",
+          "aliases": []
+        },
+        {
+          "canonical": "棉拖鞋",
+          "aliases": [
+            "拖鞋"
+          ]
+        },
+        {
+          "canonical": "凉鞋",
+          "aliases": []
+        },
+        {
+          "canonical": "运动鞋",
+          "aliases": []
+        },
+        {
+          "canonical": "帆布鞋",
+          "aliases": []
+        },
+        {
+          "canonical": "皮鞋",
+          "aliases": []
+        },
+        {
+          "canonical": "登山鞋",
+          "aliases": [
+            "徒步鞋"
+          ]
+        },
+        {
+          "canonical": "雨靴",
+          "aliases": [
+            "雨鞋"
+          ]
+        },
+        {
+          "canonical": "工作靴",
+          "aliases": [
+            "劳保鞋"
+          ]
+        },
+        {
+          "canonical": "高跟鞋",
+          "aliases": []
+        },
+        {
+          "canonical": "近视眼镜",
+          "aliases": [
+            "框架眼镜"
+          ]
+        },
+        {
+          "canonical": "太阳镜",
+          "aliases": [
+            "墨镜"
+          ]
+        },
+        {
+          "canonical": "游泳镜",
+          "aliases": [
+            "泳镜"
+          ]
+        },
+        {
+          "canonical": "机械手表",
+          "aliases": [
+            "手表"
+          ]
+        },
+        {
+          "canonical": "项链",
+          "aliases": []
+        },
+        {
+          "canonical": "手链",
+          "aliases": []
+        },
+        {
+          "canonical": "戒指",
+          "aliases": []
+        },
+        {
+          "canonical": "耳环",
+          "aliases": [
+            "耳坠"
+          ]
+        },
+        {
+          "canonical": "发夹",
+          "aliases": []
+        },
+        {
+          "canonical": "发圈",
+          "aliases": [
+            "头绳"
+          ]
+        },
+        {
+          "canonical": "发箍",
+          "aliases": []
+        },
+        {
+          "canonical": "袖套",
+          "aliases": [
+            "套袖"
+          ]
+        },
+        {
+          "canonical": "鞋套",
+          "aliases": []
+        },
+        {
+          "canonical": "厨师服",
+          "aliases": []
+        },
+        {
+          "canonical": "白大褂",
+          "aliases": []
+        },
+        {
+          "canonical": "工装服",
+          "aliases": [
+            "工作服"
+          ]
+        },
+        {
+          "canonical": "校服",
+          "aliases": []
+        },
+        {
+          "canonical": "保安制服",
+          "aliases": []
+        },
+        {
+          "canonical": "反光背心",
+          "aliases": []
+        },
+        {
+          "canonical": "棉护膝",
+          "aliases": []
+        },
+        {
+          "canonical": "护肘",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋垫",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋带",
+          "aliases": []
+        },
+        {
+          "canonical": "领带夹",
+          "aliases": []
+        },
+        {
+          "canonical": "袖扣",
+          "aliases": []
+        },
+        {
+          "canonical": "胸针",
+          "aliases": []
+        },
+        {
+          "canonical": "毛线耳罩",
+          "aliases": [
+            "耳罩"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bags_storage",
+      "label": "箱包与收纳",
+      "quota": 45,
+      "items": [
+        {
+          "canonical": "双肩背包",
+          "aliases": [
+            "背包",
+            "书包"
+          ]
+        },
+        {
+          "canonical": "单肩包",
+          "aliases": [
+            "挎包"
+          ]
+        },
+        {
+          "canonical": "帆布托特包",
+          "aliases": [
+            "托特包"
+          ]
+        },
+        {
+          "canonical": "手提包",
+          "aliases": []
+        },
+        {
+          "canonical": "公文包",
+          "aliases": []
+        },
+        {
+          "canonical": "拉杆行李箱",
+          "aliases": [
+            "行李箱",
+            "拉杆箱"
+          ]
+        },
+        {
+          "canonical": "旅行袋",
+          "aliases": []
+        },
+        {
+          "canonical": "腰包",
+          "aliases": []
+        },
+        {
+          "canonical": "零钱包",
+          "aliases": []
+        },
+        {
+          "canonical": "钱包",
+          "aliases": []
+        },
+        {
+          "canonical": "银行卡包",
+          "aliases": [
+            "卡包"
+          ]
+        },
+        {
+          "canonical": "钥匙包",
+          "aliases": []
+        },
+        {
+          "canonical": "化妆包",
+          "aliases": []
+        },
+        {
+          "canonical": "文具盒",
+          "aliases": [
+            "铅笔盒"
+          ]
+        },
+        {
+          "canonical": "保温便当袋",
+          "aliases": [
+            "便当袋"
+          ]
+        },
+        {
+          "canonical": "工具包",
+          "aliases": []
+        },
+        {
+          "canonical": "相机包",
+          "aliases": []
+        },
+        {
+          "canonical": "笔记本电脑包",
+          "aliases": [
+            "电脑包"
+          ]
+        },
+        {
+          "canonical": "购物袋",
+          "aliases": []
+        },
+        {
+          "canonical": "布袋",
+          "aliases": []
+        },
+        {
+          "canonical": "网兜",
+          "aliases": []
+        },
+        {
+          "canonical": "洗衣袋",
+          "aliases": []
+        },
+        {
+          "canonical": "真空压缩袋",
+          "aliases": [
+            "压缩袋"
+          ]
+        },
+        {
+          "canonical": "旅行收纳袋",
+          "aliases": []
+        },
+        {
+          "canonical": "塑料收纳箱",
+          "aliases": [
+            "收纳箱"
+          ]
+        },
+        {
+          "canonical": "抽屉分隔盒",
+          "aliases": [
+            "抽屉收纳盒"
+          ]
+        },
+        {
+          "canonical": "藤编收纳篮",
+          "aliases": [
+            "收纳篮"
+          ]
+        },
+        {
+          "canonical": "桌面文件篮",
+          "aliases": [
+            "文件篮"
+          ]
+        },
+        {
+          "canonical": "首饰盒",
+          "aliases": []
+        },
+        {
+          "canonical": "鞋盒",
+          "aliases": []
+        },
+        {
+          "canonical": "纸箱",
+          "aliases": [
+            "纸盒箱"
+          ]
+        },
+        {
+          "canonical": "木板箱",
+          "aliases": [
+            "木箱"
+          ]
+        },
+        {
+          "canonical": "塑料周转箱",
+          "aliases": [
+            "周转箱"
+          ]
+        },
+        {
+          "canonical": "酒瓶架",
+          "aliases": []
+        },
+        {
+          "canonical": "罐头收纳架",
+          "aliases": []
+        },
+        {
+          "canonical": "电线收纳盒",
+          "aliases": []
+        },
+        {
+          "canonical": "眼镜盒",
+          "aliases": []
+        },
+        {
+          "canonical": "手机袋",
+          "aliases": []
+        },
+        {
+          "canonical": "护照夹",
+          "aliases": [
+            "护照套"
+          ]
+        },
+        {
+          "canonical": "雨伞架",
+          "aliases": []
+        },
+        {
+          "canonical": "衣物防尘袋",
+          "aliases": [
+            "防尘袋"
+          ]
+        },
+        {
+          "canonical": "旅行洗漱包",
+          "aliases": [
+            "洗漱包"
+          ]
+        },
+        {
+          "canonical": "硬币筒",
+          "aliases": []
+        },
+        {
+          "canonical": "CD收纳盒",
+          "aliases": [
+            "光盘盒"
+          ]
+        },
+        {
+          "canonical": "塑料零件盒",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "transport_cycling",
+      "label": "交通与骑行用品",
+      "quota": 45,
+      "items": [
+        {
+          "canonical": "城市自行车",
+          "aliases": [
+            "自行车",
+            "单车"
+          ]
+        },
+        {
+          "canonical": "山地自行车",
+          "aliases": [
+            "山地车"
+          ]
+        },
+        {
+          "canonical": "折叠自行车",
+          "aliases": [
+            "折叠车"
+          ]
+        },
+        {
+          "canonical": "儿童滑板车",
+          "aliases": [
+            "滑板车"
+          ]
+        },
+        {
+          "canonical": "电动滑板车",
+          "aliases": []
+        },
+        {
+          "canonical": "电动自行车",
+          "aliases": [
+            "电瓶车"
+          ]
+        },
+        {
+          "canonical": "人力三轮车",
+          "aliases": [
+            "三轮车"
+          ]
+        },
+        {
+          "canonical": "自行车头盔",
+          "aliases": [
+            "骑行头盔"
+          ]
+        },
+        {
+          "canonical": "自行车前灯",
+          "aliases": [
+            "骑行灯"
+          ]
+        },
+        {
+          "canonical": "自行车铃铛",
+          "aliases": [
+            "车铃"
+          ]
+        },
+        {
+          "canonical": "自行车锁",
+          "aliases": [
+            "车锁"
+          ]
+        },
+        {
+          "canonical": "自行车打气筒",
+          "aliases": [
+            "打气筒"
+          ]
+        },
+        {
+          "canonical": "自行车补胎片",
+          "aliases": [
+            "补胎片"
+          ]
+        },
+        {
+          "canonical": "自行车撬胎棒",
+          "aliases": [
+            "撬胎棒"
+          ]
+        },
+        {
+          "canonical": "自行车内胎",
+          "aliases": [
+            "内胎"
+          ]
+        },
+        {
+          "canonical": "自行车外胎",
+          "aliases": [
+            "外胎"
+          ]
+        },
+        {
+          "canonical": "自行车水壶架",
+          "aliases": [
+            "水壶架"
+          ]
+        },
+        {
+          "canonical": "自行车车筐",
+          "aliases": [
+            "车筐"
+          ]
+        },
+        {
+          "canonical": "自行车后货架",
+          "aliases": [
+            "后货架"
+          ]
+        },
+        {
+          "canonical": "自行车反光片",
+          "aliases": [
+            "反光片"
+          ]
+        },
+        {
+          "canonical": "自行车车座",
+          "aliases": [
+            "车座"
+          ]
+        },
+        {
+          "canonical": "自行车脚踏",
+          "aliases": [
+            "脚踏"
+          ]
+        },
+        {
+          "canonical": "自行车链条",
+          "aliases": [
+            "车链"
+          ]
+        },
+        {
+          "canonical": "汽车千斤顶",
+          "aliases": [
+            "千斤顶"
+          ]
+        },
+        {
+          "canonical": "三角警示牌",
+          "aliases": [
+            "警示三角牌"
+          ]
+        },
+        {
+          "canonical": "汽车应急启动电源",
+          "aliases": [
+            "汽车启动电源"
+          ]
+        },
+        {
+          "canonical": "汽车搭电线",
+          "aliases": [
+            "搭电线"
+          ]
+        },
+        {
+          "canonical": "汽车拖车绳",
+          "aliases": [
+            "拖车绳"
+          ]
+        },
+        {
+          "canonical": "轮胎气压表",
+          "aliases": [
+            "胎压表"
+          ]
+        },
+        {
+          "canonical": "车载充气泵",
+          "aliases": [
+            "汽车充气泵"
+          ]
+        },
+        {
+          "canonical": "汽车雨刷片",
+          "aliases": [
+            "雨刷器"
+          ]
+        },
+        {
+          "canonical": "汽车蓄电池",
+          "aliases": [
+            "汽车电瓶"
+          ]
+        },
+        {
+          "canonical": "车载充电器",
+          "aliases": [
+            "车充"
+          ]
+        },
+        {
+          "canonical": "车载手机支架",
+          "aliases": [
+            "汽车手机架"
+          ]
+        },
+        {
+          "canonical": "汽车座椅垫",
+          "aliases": [
+            "汽车坐垫"
+          ]
+        },
+        {
+          "canonical": "汽车防晒遮阳板",
+          "aliases": [
+            "汽车遮阳板"
+          ]
+        },
+        {
+          "canonical": "汽车防滑链",
+          "aliases": [
+            "防滑链"
+          ]
+        },
+        {
+          "canonical": "汽车备用轮胎",
+          "aliases": [
+            "备胎"
+          ]
+        },
+        {
+          "canonical": "车轮扳手",
+          "aliases": [
+            "轮胎扳手"
+          ]
+        },
+        {
+          "canonical": "汽车机油",
+          "aliases": [
+            "机油"
+          ]
+        },
+        {
+          "canonical": "发动机冷却液",
+          "aliases": [
+            "汽车防冻液"
+          ]
+        },
+        {
+          "canonical": "汽车玻璃水",
+          "aliases": [
+            "玻璃水"
+          ]
+        },
+        {
+          "canonical": "后备箱收纳箱",
+          "aliases": [
+            "后备箱整理箱"
+          ]
+        },
+        {
+          "canonical": "交通锥",
+          "aliases": [
+            "路锥",
+            "雪糕筒"
+          ]
+        },
+        {
+          "canonical": "摩托车头盔",
+          "aliases": [
+            "摩托头盔"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "outdoor_camping",
+      "label": "户外露营与防护",
+      "quota": 55,
+      "items": [
+        {
+          "canonical": "双人帐篷",
+          "aliases": [
+            "帐篷"
+          ]
+        },
+        {
+          "canonical": "木乃伊睡袋",
+          "aliases": [
+            "睡袋"
+          ]
+        },
+        {
+          "canonical": "露营防潮垫",
+          "aliases": [
+            "防潮垫"
+          ]
+        },
+        {
+          "canonical": "折叠露营椅",
+          "aliases": [
+            "露营椅"
+          ]
+        },
+        {
+          "canonical": "折叠露营桌",
+          "aliases": [
+            "露营桌"
+          ]
+        },
+        {
+          "canonical": "露营天幕",
+          "aliases": [
+            "天幕"
+          ]
+        },
+        {
+          "canonical": "户外吊床",
+          "aliases": [
+            "吊床"
+          ]
+        },
+        {
+          "canonical": "防水篷布",
+          "aliases": [
+            "篷布"
+          ]
+        },
+        {
+          "canonical": "帐篷地布",
+          "aliases": [
+            "地布"
+          ]
+        },
+        {
+          "canonical": "登山杖",
+          "aliases": []
+        },
+        {
+          "canonical": "磁性指南针",
+          "aliases": [
+            "指南针"
+          ]
+        },
+        {
+          "canonical": "双筒望远镜",
+          "aliases": [
+            "望远镜"
+          ]
+        },
+        {
+          "canonical": "求救哨",
+          "aliases": [
+            "救生哨"
+          ]
+        },
+        {
+          "canonical": "户外净水器",
+          "aliases": [
+            "便携净水器"
+          ]
+        },
+        {
+          "canonical": "净水吸管",
+          "aliases": []
+        },
+        {
+          "canonical": "折叠水袋",
+          "aliases": []
+        },
+        {
+          "canonical": "保温冷藏箱",
+          "aliases": [
+            "保温箱"
+          ]
+        },
+        {
+          "canonical": "野餐篮",
+          "aliases": []
+        },
+        {
+          "canonical": "野餐垫",
+          "aliases": []
+        },
+        {
+          "canonical": "防蚊头网",
+          "aliases": [
+            "防蚊网"
+          ]
+        },
+        {
+          "canonical": "一次性雨披",
+          "aliases": [
+            "雨披"
+          ]
+        },
+        {
+          "canonical": "露营炊具套装",
+          "aliases": [
+            "露营锅"
+          ]
+        },
+        {
+          "canonical": "不锈钢饭盒",
+          "aliases": [
+            "军用饭盒"
+          ]
+        },
+        {
+          "canonical": "折叠水桶",
+          "aliases": []
+        },
+        {
+          "canonical": "便携洗漱盆",
+          "aliases": []
+        },
+        {
+          "canonical": "便携太阳能充电板",
+          "aliases": [
+            "折叠太阳能板"
+          ]
+        },
+        {
+          "canonical": "手摇充电器",
+          "aliases": []
+        },
+        {
+          "canonical": "帐篷地钉",
+          "aliases": [
+            "地钉"
+          ]
+        },
+        {
+          "canonical": "帐篷营绳",
+          "aliases": [
+            "营绳"
+          ]
+        },
+        {
+          "canonical": "帐篷修补贴",
+          "aliases": []
+        },
+        {
+          "canonical": "救生衣",
+          "aliases": [
+            "救生背心"
+          ]
+        },
+        {
+          "canonical": "游泳圈",
+          "aliases": [
+            "泳圈"
+          ]
+        },
+        {
+          "canonical": "救生绳",
+          "aliases": []
+        },
+        {
+          "canonical": "攀岩安全带",
+          "aliases": [
+            "攀岩腰带"
+          ]
+        },
+        {
+          "canonical": "攀岩锁扣",
+          "aliases": [
+            "登山扣"
+          ]
+        },
+        {
+          "canonical": "攀岩头盔",
+          "aliases": []
+        },
+        {
+          "canonical": "静力攀岩绳",
+          "aliases": [
+            "攀岩绳"
+          ]
+        },
+        {
+          "canonical": "护目防尘镜",
+          "aliases": [
+            "防尘镜"
+          ]
+        },
+        {
+          "canonical": "防尘面罩",
+          "aliases": []
+        },
+        {
+          "canonical": "建筑安全帽",
+          "aliases": [
+            "安全帽"
+          ]
+        },
+        {
+          "canonical": "隔音耳罩",
+          "aliases": []
+        },
+        {
+          "canonical": "防割手套",
+          "aliases": []
+        },
+        {
+          "canonical": "折叠工兵铲",
+          "aliases": [
+            "折叠铲"
+          ]
+        },
+        {
+          "canonical": "钓鱼竿",
+          "aliases": [
+            "鱼竿"
+          ]
+        },
+        {
+          "canonical": "鱼线轮",
+          "aliases": [
+            "绕线轮"
+          ]
+        },
+        {
+          "canonical": "抄鱼网",
+          "aliases": [
+            "抄网"
+          ]
+        },
+        {
+          "canonical": "钓鱼浮漂",
+          "aliases": [
+            "鱼漂"
+          ]
+        },
+        {
+          "canonical": "便携坐便器",
+          "aliases": []
+        },
+        {
+          "canonical": "折叠担架",
+          "aliases": []
+        },
+        {
+          "canonical": "急救睡袋",
+          "aliases": []
+        },
+        {
+          "canonical": "防水地图袋",
+          "aliases": [
+            "地图袋"
+          ]
+        },
+        {
+          "canonical": "睡袋压缩袋",
+          "aliases": []
+        },
+        {
+          "canonical": "户外温度计",
+          "aliases": []
+        },
+        {
+          "canonical": "露营餐具",
+          "aliases": []
+        },
+        {
+          "canonical": "防水手机套",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "children_toys",
+      "label": "儿童婴幼儿与玩具",
+      "quota": 45,
+      "items": [
+        {
+          "canonical": "婴儿奶瓶",
+          "aliases": [
+            "奶瓶"
+          ]
+        },
+        {
+          "canonical": "安抚奶嘴",
+          "aliases": [
+            "奶嘴"
+          ]
+        },
+        {
+          "canonical": "婴儿吸盘碗",
+          "aliases": [
+            "宝宝碗"
+          ]
+        },
+        {
+          "canonical": "婴儿围嘴",
+          "aliases": [
+            "围兜",
+            "口水巾"
+          ]
+        },
+        {
+          "canonical": "奶瓶刷",
+          "aliases": []
+        },
+        {
+          "canonical": "婴儿纸尿裤",
+          "aliases": [
+            "尿不湿"
+          ]
+        },
+        {
+          "canonical": "婴儿隔尿垫",
+          "aliases": [
+            "隔尿垫"
+          ]
+        },
+        {
+          "canonical": "婴儿推车",
+          "aliases": [
+            "儿童推车"
+          ]
+        },
+        {
+          "canonical": "婴儿背带",
+          "aliases": [
+            "宝宝背带"
+          ]
+        },
+        {
+          "canonical": "婴儿床",
+          "aliases": [
+            "童床"
+          ]
+        },
+        {
+          "canonical": "婴儿浴盆",
+          "aliases": [
+            "宝宝浴盆"
+          ]
+        },
+        {
+          "canonical": "婴儿毛毯",
+          "aliases": [
+            "宝宝毯"
+          ]
+        },
+        {
+          "canonical": "婴儿摇铃",
+          "aliases": [
+            "摇铃"
+          ]
+        },
+        {
+          "canonical": "婴儿牙胶",
+          "aliases": [
+            "磨牙棒"
+          ]
+        },
+        {
+          "canonical": "木质积木",
+          "aliases": [
+            "积木"
+          ]
+        },
+        {
+          "canonical": "儿童拼图",
+          "aliases": [
+            "拼图"
+          ]
+        },
+        {
+          "canonical": "布娃娃",
+          "aliases": [
+            "洋娃娃"
+          ]
+        },
+        {
+          "canonical": "泰迪熊玩偶",
+          "aliases": [
+            "泰迪熊"
+          ]
+        },
+        {
+          "canonical": "玩具汽车",
+          "aliases": [
+            "玩具车"
+          ]
+        },
+        {
+          "canonical": "玩具火车",
+          "aliases": []
+        },
+        {
+          "canonical": "陀螺",
+          "aliases": []
+        },
+        {
+          "canonical": "悠悠球",
+          "aliases": [
+            "溜溜球"
+          ]
+        },
+        {
+          "canonical": "玻璃弹珠",
+          "aliases": [
+            "弹珠"
+          ]
+        },
+        {
+          "canonical": "儿童皮球",
+          "aliases": [
+            "皮球"
+          ]
+        },
+        {
+          "canonical": "儿童跳绳",
+          "aliases": [
+            "跳绳"
+          ]
+        },
+        {
+          "canonical": "呼啦圈",
+          "aliases": []
+        },
+        {
+          "canonical": "风筝",
+          "aliases": []
+        },
+        {
+          "canonical": "飞盘",
+          "aliases": []
+        },
+        {
+          "canonical": "塑料拼插玩具",
+          "aliases": [
+            "拼插玩具"
+          ]
+        },
+        {
+          "canonical": "儿童棋盘游戏",
+          "aliases": [
+            "桌游"
+          ]
+        },
+        {
+          "canonical": "中国象棋",
+          "aliases": [
+            "象棋"
+          ]
+        },
+        {
+          "canonical": "国际象棋",
+          "aliases": []
+        },
+        {
+          "canonical": "跳棋",
+          "aliases": []
+        },
+        {
+          "canonical": "扑克牌",
+          "aliases": []
+        },
+        {
+          "canonical": "拼图卡片",
+          "aliases": []
+        },
+        {
+          "canonical": "蜡笔",
+          "aliases": []
+        },
+        {
+          "canonical": "儿童涂色本",
+          "aliases": [
+            "涂色本"
+          ]
+        },
+        {
+          "canonical": "彩色橡皮泥",
+          "aliases": [
+            "橡皮泥"
+          ]
+        },
+        {
+          "canonical": "吹泡泡棒",
+          "aliases": [
+            "泡泡棒"
+          ]
+        },
+        {
+          "canonical": "玩具鼓",
+          "aliases": []
+        },
+        {
+          "canonical": "儿童木琴",
+          "aliases": [
+            "玩具木琴"
+          ]
+        },
+        {
+          "canonical": "遥控玩具车",
+          "aliases": [
+            "遥控车"
+          ]
+        },
+        {
+          "canonical": "玩具机器人",
+          "aliases": []
+        },
+        {
+          "canonical": "兔子毛绒玩偶",
+          "aliases": [
+            "毛绒兔子"
+          ]
+        },
+        {
+          "canonical": "手偶",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "id": "books_printed",
+      "label": "书籍与印刷品",
+      "quota": 30,
+      "items": [
+        {
+          "canonical": "汉语词典",
+          "aliases": [
+            "字典"
+          ]
+        },
+        {
+          "canonical": "英汉词典",
+          "aliases": []
+        },
+        {
+          "canonical": "百科全书",
+          "aliases": []
+        },
+        {
+          "canonical": "世界地图册",
+          "aliases": [
+            "地图册"
+          ]
+        },
+        {
+          "canonical": "中小学教科书",
+          "aliases": [
+            "课本"
+          ]
+        },
+        {
+          "canonical": "烹饪食谱书",
+          "aliases": [
+            "菜谱书"
+          ]
+        },
+        {
+          "canonical": "家电维修手册",
+          "aliases": [
+            "维修手册"
+          ]
+        },
+        {
+          "canonical": "急救指南",
+          "aliases": []
+        },
+        {
+          "canonical": "植物图鉴",
+          "aliases": []
+        },
+        {
+          "canonical": "动物图鉴",
+          "aliases": []
+        },
+        {
+          "canonical": "旅行指南",
+          "aliases": []
+        },
+        {
+          "canonical": "城市交通地图",
+          "aliases": [
+            "城市地图"
+          ]
+        },
+        {
+          "canonical": "日报",
+          "aliases": [
+            "报纸"
+          ]
+        },
+        {
+          "canonical": "时事杂志",
+          "aliases": [
+            "杂志"
+          ]
+        },
+        {
+          "canonical": "漫画书",
+          "aliases": [
+            "漫画"
+          ]
+        },
+        {
+          "canonical": "儿童绘本",
+          "aliases": [
+            "绘本"
+          ]
+        },
+        {
+          "canonical": "诗集",
+          "aliases": []
+        },
+        {
+          "canonical": "长篇小说",
+          "aliases": [
+            "小说"
+          ]
+        },
+        {
+          "canonical": "散文集",
+          "aliases": []
+        },
+        {
+          "canonical": "短篇小说集",
+          "aliases": []
+        },
+        {
+          "canonical": "技术操作手册",
+          "aliases": [
+            "技术手册"
+          ]
+        },
+        {
+          "canonical": "产品说明书",
+          "aliases": [
+            "说明书"
+          ]
+        },
+        {
+          "canonical": "宣传海报",
+          "aliases": [
+            "海报"
+          ]
+        },
+        {
+          "canonical": "宣传册",
+          "aliases": []
+        },
+        {
+          "canonical": "宣传单",
+          "aliases": [
+            "传单"
+          ]
+        },
+        {
+          "canonical": "商品目录册",
+          "aliases": [
+            "产品目录"
+          ]
+        },
+        {
+          "canonical": "贺卡",
+          "aliases": []
+        },
+        {
+          "canonical": "明信片",
+          "aliases": []
+        },
+        {
+          "canonical": "纸质相册",
+          "aliases": [
+            "相册"
+          ]
+        },
+        {
+          "canonical": "乐谱册",
+          "aliases": [
+            "乐谱"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pet_garden_hobby",
+      "label": "宠物、园艺、爱好与杂物",
+      "quota": 25,
+      "items": [
+        {
+          "canonical": "宠物食盆",
+          "aliases": [
+            "宠物碗"
+          ]
+        },
+        {
+          "canonical": "宠物饮水器",
+          "aliases": []
+        },
+        {
+          "canonical": "宠物牵引绳",
+          "aliases": [
+            "狗绳"
+          ]
+        },
+        {
+          "canonical": "宠物项圈",
+          "aliases": []
+        },
+        {
+          "canonical": "宠物航空箱",
+          "aliases": [
+            "宠物箱"
+          ]
+        },
+        {
+          "canonical": "猫砂盆",
+          "aliases": []
+        },
+        {
+          "canonical": "猫砂铲",
+          "aliases": []
+        },
+        {
+          "canonical": "宠物梳毛刷",
+          "aliases": [
+            "宠物刷"
+          ]
+        },
+        {
+          "canonical": "猫抓板",
+          "aliases": []
+        },
+        {
+          "canonical": "宠物玩具球",
+          "aliases": []
+        },
+        {
+          "canonical": "陶土花盆",
+          "aliases": [
+            "花盆"
+          ]
+        },
+        {
+          "canonical": "园艺浇水壶",
+          "aliases": [
+            "浇花壶"
+          ]
+        },
+        {
+          "canonical": "园艺修枝剪",
+          "aliases": [
+            "修枝剪"
+          ]
+        },
+        {
+          "canonical": "园艺小铲",
+          "aliases": [
+            "花铲"
+          ]
+        },
+        {
+          "canonical": "园艺耙",
+          "aliases": [
+            "小耙子"
+          ]
+        },
+        {
+          "canonical": "育苗盘",
+          "aliases": []
+        },
+        {
+          "canonical": "园艺手套",
+          "aliases": []
+        },
+        {
+          "canonical": "植物标签牌",
+          "aliases": [
+            "植物标签"
+          ]
+        },
+        {
+          "canonical": "羽毛球拍",
+          "aliases": []
+        },
+        {
+          "canonical": "乒乓球拍",
+          "aliases": []
+        },
+        {
+          "canonical": "足球",
+          "aliases": []
+        },
+        {
+          "canonical": "篮球",
+          "aliases": []
+        },
+        {
+          "canonical": "木吉他",
+          "aliases": [
+            "吉他"
+          ]
+        },
+        {
+          "canonical": "口琴",
+          "aliases": []
+        },
+        {
+          "canonical": "相框",
+          "aliases": []
+        }
+      ]
+    }
+  ]
+}
+

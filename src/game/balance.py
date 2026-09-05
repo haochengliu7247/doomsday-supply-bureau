@@ -1,0 +1,47 @@
+from src.schemas import EffectLevel
+
+INVENTORY_CAPACITY = 6
+
+SCAVENGE_ENERGY_COST = 5
+SCAVENGE_HUNGER_GAIN = 6
+SCAVENGE_MORALE_COST = 1
+
+REST_ENERGY_GAIN = 30
+
+DAILY_WATER_COST = 0.5
+DAILY_HUNGER_GAIN = 4
+DAILY_ENERGY_COST = 3
+DAILY_MORALE_COST = 1
+EXTREME_HUNGER_HEALTH_COST = 10
+WATER_SHORTAGE_HEALTH_COST = 10
+TOXIC_DAMAGE_MIN = 3
+TOXIC_DAMAGE_MAX = 7
+
+GENERATED_FOOD_HUNGER_RELIEF = 8
+GENERATED_FOOD_HEALTH_COST = 5
+GENERATED_FOOD_SAFE_YEARS = 0.25
+
+GRADE_WATER_REWARDS: dict[str, float] = {
+    "D": 0.1,
+    "C": 0.5,
+    "B": 2.0,
+    "A": 5.0,
+    "S": 15.0,
+}
+
+GRADE_MORALE_REWARDS: dict[str, int] = {
+    "E": 3,
+    "F": 2,
+}
+
+EFFECT_MAGNITUDES: dict[EffectLevel, int] = {
+    EffectLevel.NONE: 0,
+    EffectLevel.TINY_POSITIVE: 4,
+    EffectLevel.SMALL_POSITIVE: 8,
+    EffectLevel.MEDIUM_POSITIVE: 15,
+    EffectLevel.LARGE_POSITIVE: 22,
+    EffectLevel.TINY_NEGATIVE: -4,
+    EffectLevel.SMALL_NEGATIVE: -8,
+    EffectLevel.MEDIUM_NEGATIVE: -15,
+    EffectLevel.LARGE_NEGATIVE: -22,
+}

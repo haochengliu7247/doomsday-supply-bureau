@@ -1,0 +1,7 @@
+gradio==6.26.0
+httpx>=0.28,<1
+json-repair>=0.50,<1
+pillow>=11,<13
+pydantic>=2.11,<3
+pydantic-settings>=2.9,<3
+sqlalchemy>=2.0,<3
